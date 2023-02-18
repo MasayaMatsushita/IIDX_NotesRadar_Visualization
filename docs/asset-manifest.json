@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IIDX_NotesRadar_Visualization/static/css/main.073c9b0a.css",
+    "main.js": "/IIDX_NotesRadar_Visualization/static/js/main.6a52bca4.js",
+    "static/js/787.f62831c3.chunk.js": "/IIDX_NotesRadar_Visualization/static/js/787.f62831c3.chunk.js",
+    "static/media/logo.svg": "/IIDX_NotesRadar_Visualization/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/IIDX_NotesRadar_Visualization/index.html",
+    "main.073c9b0a.css.map": "/IIDX_NotesRadar_Visualization/static/css/main.073c9b0a.css.map",
+    "main.6a52bca4.js.map": "/IIDX_NotesRadar_Visualization/static/js/main.6a52bca4.js.map",
+    "787.f62831c3.chunk.js.map": "/IIDX_NotesRadar_Visualization/static/js/787.f62831c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6a52bca4.js"
+  ]
+}
